@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hiagoguimaraes
-- 👀 I’m interested in ... python
-- 🌱 I’m currently learning ... data scienc
+- 👀 I’m interested in ... data science
+- 🌱 I’m currently learning ... python and R
 - 💞️ I’m looking to collaborate on ... projects envolving python
 - 📫 How to reach me ... hiago.matos_@hotmail.com
 
